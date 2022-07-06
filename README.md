@@ -11,3 +11,7 @@ IEEE standard used in this project are :
 ● IEEE 1012 is a standard for software project management, software testing, and software engineering, verification and validation.                                   
 ● IEEE 16326 is standard for Software project management which is an art and science of planning and leading software projects.                                   
 ● IEEE 24748 is standard for Software documentation which is written text or illustration that accompanies computer software or is embedded in the source code.         
+
+## Project Images
+![Screenshot_1](https://user-images.githubusercontent.com/79107818/177517942-f12a5cf8-4f7d-4106-b01c-e8f48b2297e1.png)
+![Screenshot_2](https://user-images.githubusercontent.com/79107818/177517955-d59bbf36-148e-4b2d-b37a-224b1f06fa62.png)
